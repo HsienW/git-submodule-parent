@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn ReactReactReactReactReactReactReact
+          我爸爸也更新了
         </a>
       </header>
     </div>
